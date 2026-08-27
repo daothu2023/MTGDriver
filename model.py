@@ -1,5 +1,5 @@
 """
-Model definitions for MTDriverGNN: ResidualGCNEncoder, MultiTaskGCN, and
+Model definitions for MTGDriver: ResidualGCNEncoder, MultiTaskGCN, and
 LearnableAlpha. See each class's docstring for implementation details.
 """
 
